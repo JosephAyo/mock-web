@@ -7,6 +7,9 @@ import {
 import DataTest from './DataTest.json';
 import {
     AreaChart,
+    BarChart,
+    Bar,
+    Legend,
     Area,
     CartesianGrid,
     XAxis,
