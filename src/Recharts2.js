@@ -7,6 +7,9 @@ import {
 import DataTest from './DataTest.json';
 import {
     AreaChart,
+    BarChart,
+    Bar,
+    Legend,
     Area,
     CartesianGrid,
     XAxis,
@@ -138,6 +141,12 @@ const Recharts2 =(props)=> {
                 />
                 <Tooltip/>
             </AreaChart>
+            <BarChart width={1000} height={300} data={transDummy}>
+                <Tooltip/>
+                <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
+                <Legend width={100} wrapperStyle={{ top: 40, right: 5, backgroundColor: '#f5f5f5', border: '1px solid #d5d5d5', borderRadius: 3, lineHeight: '15px' }} />
+                <Bar dataKey="download" barSize={30} fill="#8884d8"/>
+            </BarChart>
         </div>
     )
 };
