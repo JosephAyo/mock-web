@@ -1,0 +1,46 @@
+@import "~bootstrap/scss/bootstrap";
+.toast.show {
+    position: relative;
+}
+
+.confirm{
+    position: absolute;
+    min-height: 200px;
+    top: 70px;
+    right: 0;
+    z-index: 10;
+}
+.card-list{
+    margin-top: 100px;
+}
+.card-img{
+    max-width: 100%;
+}
+
+.form-cust{
+    // margin-top: 5rem;
+    position: relative;
+    top:5rem;
+    // max-width: 200px;
+}
+
+.map-cust{
+    margin-top: 1rem;
+    // max-width: 200px;
+}
+
+.vis-chart-cust{
+    margin-top: 5rem;
+    // max-width: 200px;
+}
+
+.vis-chart-cust{
+        color: rgb(22, 4, 81);
+}
+
+.button-span{
+    margin-bottom: 20px;
+}
+
+
+

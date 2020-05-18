@@ -1,0 +1,87 @@
+[
+    {
+        "dataKPI1": 2.73,
+        "dataKPI2": 7.55,
+        "voiceKPI1": 14.5,
+        "voiceKPI2": 14.5,
+        "sender_name": "SOLAB Bulk Sms",
+        "recipients": [],
+        "_id": "5df9eef3a1fe560017baf0a0",
+        "user_id": "5dcaa91e28208a38d8b0ca1e",
+        "time_created": "2019-12-18T09:18:43.361Z",
+        "__v": 0
+    },
+    {
+        "dataKPI1":2.17,
+        "dataKPI2": 8.53,
+        "voiceKPI1": 14.5,
+        "voiceKPI2": 14.5,
+        "sender_name": "JoeBee",
+        "recipients": [
+            "09122332233",
+            "9083832223",
+            "09355667755",
+            "08022332y32"
+        ],
+        "_id": "5dfe695a34fe7d1d9c951a7e",
+        "user_id": "5dcaa91e28208a38d8b0ca1e",
+        "time_created": "2019-12-21T18:50:02.621Z",
+        "__v": 0
+    },
+    {
+        "dataKPI1": 6.62,
+        "dataKPI2": 4.82,
+        "voiceKPI1": 14.5,
+        "voiceKPI2": 14.5,
+        "sender_name": "Admiral Ackbar",
+        "recipients": [
+            ""
+        ],
+        "_id": "5e4d01814fd5dc0017cdffcf",
+        "user_id": "5dcaa91e28208a38d8b0ca1e",
+        "time_created": "2020-02-19T09:36:01.783Z",
+        "__v": 0
+    },
+    {
+        "dataKPI1": 6.31,
+        "dataKPI2": 4.77,
+        "voiceKPI1": 14.5,
+        "voiceKPI2": 14.5,
+        "sender_name": "Boe",
+        "recipients": [
+            ""
+        ],
+        "_id": "5e4d01814fdksc0017cdffcf",
+        "user_id": "5dcaa91e28208a38d8b0ca1e",
+        "time_created": "2020-03-19T09:36:01.783Z",
+        "__v": 0
+    },
+    {
+        "dataKPI1": 0.84,
+        "dataKPI2": 3.68,
+        "voiceKPI1": 14.5,
+        "voiceKPI2": 14.5,
+        "sender_name": "Looe",
+        "recipients": [
+            ""
+        ],
+        "_id": "5e4d01814fdksc0017cdffcf",
+        "user_id": "5dcaa91e28208a38d8b0ca1e",
+        "time_created": "2020-03-19T10:36:01.783Z",
+        "__v": 0
+    },
+    {
+        "dataKPI1": 5.19,
+        "dataKPI2": 0.98,
+        "voiceKPI1": 14.5,
+        "voiceKPI2": 14.5,
+        "sender_name": "Plois",
+        "recipients": [
+            ""
+        ],
+        "_id": "5e4d01814fdksc0017cdffcf",
+        "user_id": "5dcaa91e28208a38d8b0ca1e",
+        "time_created": "2020-03-19T11:36:01.783Z",
+        "__v": 0
+    }
+]
